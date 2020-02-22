@@ -1,2 +1,2 @@
 # CBIR
-Content-based Image Retrieval on Medical Image
+Content-based Medical Image Retrieval (M-CBIR)
